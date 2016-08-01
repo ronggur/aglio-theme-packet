@@ -1,0 +1,27 @@
+{
+  "name": "aglio-theme-packet",
+  "version": "0.0.1",
+  "description": "Aglio theme for packet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ronggur/aglio-theme-packet.git"
+  },
+  "keywords": [
+    "aglio",
+    "theme",
+    "packet"
+  ],
+  "author": {
+    "name": "Daniel G. Taylor",
+    "email": "ronggur@packet.net"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ronggur/aglio-theme-packet/issues"
+  },
+  "homepage": "https://github.com/ronggur/aglio-theme-packet#readme"
+}
