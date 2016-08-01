@@ -15,10 +15,7 @@
     "theme",
     "packet"
   ],
-  "author": {
-    "name": "Daniel G. Taylor",
-    "email": "ronggur@packet.net"
-  },
+  "author": "Ronggur <ronggur@packet.net>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ronggur/aglio-theme-packet/issues"
